@@ -1,2 +1,2 @@
 # friedchicken
-A student wants to become an IOS AI developer
+Hi! I'm interested in learning Python and Swift.
